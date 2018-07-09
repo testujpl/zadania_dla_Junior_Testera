@@ -1,4 +1,3 @@
-# zadania_dla_Junior_Testera
 
 # Zadania_dla_Junior_Testera_Dzien_1
 
