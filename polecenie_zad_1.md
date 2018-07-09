@@ -7,7 +7,7 @@
 Cześć! 
 Jeśli chcesz zostać Młodszym Testerem Oprogramowania przyda Ci się garść zadań praktycznych! 
 Zadania będziemy publikować codziennie przez 4 dni, zaczynając od tego najłatwiejszego. 
-Odpowiedzi do zadań pojawią się systematycznie, dzień po 1.,2.,3. i 4. zadaniu, w tym repozytorium (w osobnym pliku). 
+Odpowiedzi do zadań pojawią się systematycznie, dzień po 1.,2.,3. i 4. zadaniu, w tym repozytorium (w osobnym pliku) oraz na grupie na Facebooku: https://www.facebook.com/groups/testeroprogramowania/. 
 To, co? Zaczynamy!
 
 
