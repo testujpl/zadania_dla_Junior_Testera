@@ -7,7 +7,7 @@
 Cześć! 
 Jeśli chcesz zostać Młodszym Testerem Oprogramowania przyda Ci się garść zadań praktycznych! 
 Zadania będziemy publikować codziennie przez 4 dni, zaczynając od tego najłatwiejszego. 
-Odpowiedzi do zadań pojawią się systematycznie, dzień po 1.,2.,3. i 4. zadaniu.
+Odpowiedzi do zadań pojawią się systematycznie, dzień po 1.,2.,3. i 4. zadaniu, w tym repozytorium (w osobnym pliku). 
 To, co? Zaczynamy!
 
 
@@ -24,7 +24,7 @@ To teraz prostymi słowami: przypadek testowy to opis zdarzenia lub elementu, kt
 
 
 
-**Aby stworzyć przypadek testowy obowiązkowo wykorzystujemy takie elementy jak:**
+**Aby stworzyć przypadek testowy wykorzystujemy takie elementy jak:**
 
 * **Unikalny identyfikator** - ciąg liter i cyfr, którym oznaczamy przypadek testowy. Tworzony jest m.in po to żeby łatwo go było odnaleźć albo się na niego powołać.
 * **Nazwa (Tytuł)**  - powinien być krótki i zwięzły 
@@ -46,7 +46,7 @@ Protip: Elementy i narzędzia, które wykorzystujesz podczas tworzenia przypadku
 
 
 
-## Wiesz już, czym jest przypadek testowy. Na poniższym przykładzie zobacz, jak to wygląda w praktyce.
+## Wiesz już, czym jest przypadek testowy. Na poniższym przykładzie zobacz, jak to może wyglądać praktyce.
 
 
 
