@@ -9,13 +9,13 @@ Poniżej publikujemy rozwiązanie, w którym możesz sprawdzić poprawną odpowi
 
 <img alt="Logo" src="https://testuj.pl/wp-content/uploads/2018/07/zaD-1.png">
 
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=pl1Uei-bAMs&t" target="_blank"><img src="http://img.youtube.com/vi/pl1Uei-bAMs&t/0.jpg" 
-alt="VIDEO" width="240" height="180" border="10" /></a>
-
-
 Jeśli Twoje rozwiązanie wygląda tak samo, to jesteś na dobrej drodze do opanowania zadań Junior Testera!
 
-To by było na tyle. Zapraszamy do rozwiązywania kolejnych zadań! :)
+### Nagranie z omówieniem najczęściej pojawiających się błędów
+
+<a href="https://www.youtube.com/watch?v=pl1Uei-bAMs&feature=youtu.be
+" target="_blank"><img src="https://testuj.pl/wp-content/uploads/2018/07/Bez-tytułu.png" /></a>
+
+To by było na tyle. Zapraszamy do rozwiązywania kolejnych zadań:)
 
 Miłego!
