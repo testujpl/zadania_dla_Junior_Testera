@@ -3,6 +3,7 @@
 
 <img alt="Logo" src="https://testuj.pl/wp-content/uploads/2018/07/testujpl_logo.png">
 
+Za Tobą pierwsze zadanie! 
 Tematyka drugiego zadania w dalszym ciągu będzie dotyczyć tworzenia przypadków testowych. Tym razem zajmiemy się jednak kontrolą jakości oprogramowania. 
 
 Zadanie 1. polegało na stworzeniu przypadku testowego sprawdzającego funkcję zakładania konta na GitHub. W tym zadaniu ponownie posłużymy się formularzem rejestracyjnym serwisu GitHub, ale skupimy się na sprawdzeniu poprawności walidacji pola *“hasło”*. 
@@ -26,7 +27,7 @@ Załóżmy, że testujemy pole w formularzu *„wiek”*. Klient w specyfikacji 
 Mamy więc 3 klasy równoważności:
 * < 18 
 * 18 – 100
-* < 100
+* > 100
 
 Reguła klas równoważności mówi nam, że wartości każdej z nich (klas) będą zachowywały się tak samo. To znaczy, że jeśli w polu *„wiek”* wpiszemy różne liczby mniejsze niż 18 lub różne liczby większe niż 100 to nie powinniśmy móc się zarejestrować. Jeśli  z kolei wpiszemy różne wartość z przedziału 18 -100 np. 72 i 23 – rejestracja powinna przejść pomyślnie. Innymi słowy, reguła równoważności mówi nam, że nie musimy testować wszystkich wartości w każdej z klas - wystarczy po jednej. :) 
 
