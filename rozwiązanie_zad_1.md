@@ -11,7 +11,7 @@ Poniżej publikujemy rozwiązanie, w którym możesz sprawdzić poprawną odpowi
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=pl1Uei-bAMs&t
-" target="_blank"><img src="http://img.youtube.com/vi/pl1Uei-bAMs&t/0.jpg" 
+" target="_blank"><img src="http://img.youtube.com/vi/pl1Uei-bAMs&t/.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
