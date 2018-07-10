@@ -27,7 +27,7 @@ Załóżmy, że testujemy pole w formularzu *„wiek”*. Klient w specyfikacji 
 Mamy więc 3 klasy równoważności:
 * < 18 
 * 18 – 100
-* > 100
+* >100
 
 Reguła klas równoważności mówi nam, że wartości każdej z nich (klas) będą zachowywały się tak samo. To znaczy, że jeśli w polu *„wiek”* wpiszemy różne liczby mniejsze niż 18 lub różne liczby większe niż 100 to nie powinniśmy móc się zarejestrować. Jeśli  z kolei wpiszemy różne wartość z przedziału 18 -100 np. 72 i 23 – rejestracja powinna przejść pomyślnie. Innymi słowy, reguła równoważności mówi nam, że nie musimy testować wszystkich wartości w każdej z klas - wystarczy po jednej. :) 
 
