@@ -10,9 +10,8 @@ Poniżej publikujemy rozwiązanie, w którym możesz sprawdzić poprawną odpowi
 <img alt="Logo" src="https://testuj.pl/wp-content/uploads/2018/07/zaD-1.png">
 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=pl1Uei-bAMs&t
-" target="_blank"><img src="http://img.youtube.com/vi/pl1Uei-bAMs&t/.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=pl1Uei-bAMs&t"target="_blank"><img src="http://img.youtube.com/vi/pl1Uei-bAMs&t/.jpg" 
+alt="VIDEO" width="240" height="180" border="10" /></a>
 
 
 Jeśli Twoje rozwiązanie wygląda tak samo, to jesteś na dobrej drodze do opanowania zadań Junior Testera!
