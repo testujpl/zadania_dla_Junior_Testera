@@ -14,7 +14,7 @@ Jeśli Twoje rozwiązanie wygląda tak samo, to jesteś na dobrej drodze do opan
 ### Nagranie z omówieniem najczęściej pojawiających się błędów
 
 <a href="https://www.youtube.com/watch?v=pl1Uei-bAMs&feature=youtu.be
-" target="_blank"><img src="https://testuj.pl/wp-content/uploads/2018/07/Bez-tytułu.png" /></a>
+"target="_blank"><img src="https://testuj.pl/wp-content/uploads/2018/07/Bez-tytułu.png" /></a>
 
 To by było na tyle. Zapraszamy do rozwiązywania kolejnych zadań:)
 
