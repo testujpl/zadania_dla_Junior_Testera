@@ -32,3 +32,5 @@ Reguła klas równoważności mówi nam, że wartości każdej z nich (klas) bę
 
 
 **Wartość brzegowa** – wartość wejścia lub wyjścia, która jest na granicy klas równoważności lub jest w najbliższym przyrostowym sąsiedztwie tej granicy. Na przykład wartość minimalna lub maksymalna zakresu. Na podstawie powyższego przykładu naszymi wartościami brzegowymi mogą być liczby: 17, 18, 19 oraz 99, 100, 101. 
+
+### Powodzenia!
