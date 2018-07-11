@@ -14,10 +14,10 @@ Poniżej znajdziesz możliwe warianty do sprawdzenia walidacji pola *"hasło"* i
 **1. Walidacja pola ze zbyt małą liczbą znaków**
 <img alt="Logo" src="https://testuj.pl/wp-content/uploads/2018/07/1.png">
 
-**2. Walidcja pola z zbyt wysoką liczbą znaków**
+**2. Walidcja pola ze zbyt wysoką liczbą znaków**
 <img alt="Logo" src="https://testuj.pl/wp-content/uploads/2018/07/2.png">
 
-**3. Wpisanie samych cyfr w pole**
+**3. Wpisanie samych cyfr**
 <img alt="Logo" src="https://testuj.pl/wp-content/uploads/2018/07/3.png">
 
 **4. Wpisanie samych liter**
