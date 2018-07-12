@@ -8,14 +8,23 @@ Najwyższa pora nauczyć się, jak zgłaszać błędy!
 
 
 **Zanim przejdziesz do zadania - trochę teorii.**
+
+
+
 Aby dowiedzieć się jakie są rodzaje błędów i jak wygląda poprawnie zgłoszony błąd - koniecznie obejrzyj fragment jednego z naszych webinarów (od minuty 5: 34  do minuty 25:54). https://www.youtube.com/watch?v=BEeJw-n1ikg&amp=&t=#t=05m34s 
+
+
+
 
 Poniżej przedstawiamy również przykłady poprawnie zgłoszonych błędów.
 
 <img src="https://testuj.pl/wp-content/uploads/2018/07/błędy.png">
 
 
+
 Teraz kolej na Ciebie!
+
+
 
 # Polecenie zadania: 
 
