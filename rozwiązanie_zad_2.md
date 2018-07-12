@@ -14,7 +14,9 @@ Poniżej znajdziesz możliwe warianty do sprawdzenia walidacji pola *"hasło"* i
 
 > **Przypadek negatywny** – występuje wówczas, gdy testujemy niezgodnie z wymaganiami/ specyfikacją. To znaczy, sprawdzamy jak zachowa się formularz, gdy wpiszemy „niedozwolone” kombinacje znaków i cyfr (np. zbyt mało znaków, brak cyfry, brak małej litery lub gdy pozostawimy puste pole).
 
-___
+
+
+## Odpowiedź zadania 2:
 
 
 **1. Walidacja pola ze zbyt małą liczbą znaków**
