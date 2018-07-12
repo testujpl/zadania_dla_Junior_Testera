@@ -2,7 +2,8 @@
 <img alt="Logo" src="https://testuj.pl/wp-content/uploads/2018/07/testujpl_logo.png">
 
 
-Przed Tobą ostatnie zadanie! Wiesz już jak stworzyć tablicę decyzyjną i przypadki testowe. 
+**Przed Tobą ostatnie zadanie!** 
+Wiesz już jak stworzyć tablicę decyzyjną i przypadki testowe. 
 Najwyższa pora nauczyć się, jak zgłaszać błędy!
 
 
