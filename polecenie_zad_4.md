@@ -1,4 +1,4 @@
-# Zadania_dla_Junior_Testera_Dzien_3
+# Zadania_dla_Junior_Testera_Dzien_4
 <img alt="Logo" src="https://testuj.pl/wp-content/uploads/2018/07/testujpl_logo.png">
 
 
@@ -11,6 +11,7 @@ Najwyższa pora nauczyć się, jak zgłaszać błędy!
 Aby dowiedzieć się jakie są rodzaje błędów i jak wygląda poprawnie zgłoszony błąd - koniecznie obejrzyj fragment jednego z naszych webinarów (od minuty 5: 34  do minuty 25:54). https://www.youtube.com/watch?v=BEeJw-n1ikg&amp=&t=#t=05m34s 
 
 Poniżej przedstawiamy również przykłady poprawnie zgłoszonych błędów.
+
 <img src="https://testuj.pl/wp-content/uploads/2018/07/błędy.png">
 
 
