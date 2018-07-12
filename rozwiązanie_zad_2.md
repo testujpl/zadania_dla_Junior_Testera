@@ -39,5 +39,5 @@ PS Dla większej przejrzystości każdy przypadek testowy został opisany osobno
 
 ### Nagranie z omówieniem najczęściej pojawiających się błędów
 
-<a href="https://www.youtube.com/watch?v=pl1Uei-bAMs&feature=youtu.be
+<a href="https://www.youtube.com/watch?v=_OtRHUHNMMQ&feature=youtu.be
 " target="_blank"><img src="https://testuj.pl/wp-content/uploads/2018/07/zad-2.png" /></a>
