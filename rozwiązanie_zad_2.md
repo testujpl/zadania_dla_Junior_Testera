@@ -8,7 +8,13 @@ Hej! Kolejne zadanie pocztkującego testera za Tobą!
 
 Poniżej znajdziesz możliwe warianty do sprawdzenia walidacji pola *"hasło"* i ich opis.
 
+#### Dla wyjaśnienia:
 
+> **Przypadek pozytywny** – jest wtedy, gdy testujemy formularz zgodnie z wymaganiami/ specyfikacją. W naszym przypadku GitHub wymaga, aby nasze hasło miało minimum 7 znaków:  w tym przynajmniej jedną cyfrę i jedną małą literę.
+
+> **Przypadek negatywny** – występuje wówczas, gdy testujemy niezgodnie z wymaganiami/ specyfikacją. To znaczy, sprawdzamy jak zachowa się formularz, gdy wpiszemy „niedozwolone” kombinacje znaków i cyfr (np. zbyt mało znaków, brak cyfry, brak małej litery lub gdy pozostawimy puste pole).
+
+___
 
 
 **1. Walidacja pola ze zbyt małą liczbą znaków**
@@ -18,7 +24,7 @@ Poniżej znajdziesz możliwe warianty do sprawdzenia walidacji pola *"hasło"* i
 <img src="https://testuj.pl/wp-content/uploads/2018/07/22.png">
 
 **3. Wpisanie samych cyfr**
-<img src="https://testuj.pl/wp-content/uploads/2018/07/33(2).png">
+<img src="https://testuj.pl/wp-content/uploads/2018/07/332.png">
 
 **4. Wpisanie samych liter**
 <img src="https://testuj.pl/wp-content/uploads/2018/07/44.png">
