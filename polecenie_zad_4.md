@@ -3,6 +3,9 @@
 
 
 **Przed Tobą ostatnie zadanie!** 
+
+
+
 Wiesz już jak stworzyć tablicę decyzyjną i przypadki testowe. 
 Najwyższa pora nauczyć się, jak zgłaszać błędy!
 
