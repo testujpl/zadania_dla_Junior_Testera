@@ -21,7 +21,7 @@ Teraz kolej na Ciebie!
 
 
 Wejdź na stronę: http://akademiatestowania.pl/testform/. Znajdziesz tam formularz, gotowy do przetestowania. Twoim zadaniem jest znalezienie i opisanie od 3 do 5 błędów. 
-Nie chodzi nam tutaj o znalezienie maksymalnej liczby błędów (byłoby tego naprawdę sporo :)),lecz o naukę poprawnego zgłaszania błędu. 
+Nie chodzi nam tutaj o znalezienie maksymalnej liczby błędów (byłoby tego naprawdę sporo :)), lecz o naukę poprawnego zgłaszania błędu. 
 
 
 ### Powodzenia!
