@@ -35,3 +35,9 @@ Poniżej znajdziesz możliwe warianty do sprawdzenia walidacji pola *"hasło"* i
 Oto wszytskie przypadki, na które można sprawdzić poprawność walidacji pola *"hasło"*. Nie przejmuj się, jeśli w swoich odpowiedziach nie masz wszystkich, które zostały tutaj wymienione. Z każdym kolejnym wykonanym zadaniem, zwiększasz swoją świadomość na temat możliwości testowania oprogramowania.
 
 PS Dla większej przejrzystości każdy przypadek testowy został opisany osobno. Nie ma problemu, jeśli wszystko zostanie zamieszczone w jednej tabeli :)
+
+
+### Nagranie z omówieniem najczęściej pojawiających się błędów
+
+<a href="https://www.youtube.com/watch?v=pl1Uei-bAMs&feature=youtu.be
+" target="_blank"><img src="https://testuj.pl/wp-content/uploads/2018/07/zad-2.png" /></a>
