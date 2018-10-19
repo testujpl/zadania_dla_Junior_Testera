@@ -1,7 +1,7 @@
 # Zadania_dla_Junior_Testera_Dzien_2
 
 
-<img alt="Logo" src="https://testuj.pl/wp-content/uploads/2018/07/testujpl_logo.png">
+<img alt="Logo" src="https://blog.testuj.pl/wp-content/uploads/2018/07/testujpl_logo.png">
 
 Za Tobą pierwsze zadanie! 
 Tematyka drugiego zadania w dalszym ciągu będzie dotyczyć tworzenia przypadków testowych. Tym razem zajmiemy się jednak kontrolą jakości oprogramowania. 
