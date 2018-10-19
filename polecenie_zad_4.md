@@ -1,5 +1,5 @@
 # Zadania_dla_Junior_Testera_Dzien_4
-<img alt="Logo" src="https://testuj.pl/wp-content/uploads/2018/07/testujpl_logo.png">
+<img alt="Logo" src="https://blog.testuj.pl/wp-content/uploads/2018/07/testujpl_logo.png">
 
 
 **Przed Tobą ostatnie zadanie!** 
@@ -21,7 +21,7 @@ Aby dowiedzieć się jakie są rodzaje błędów i jak wygląda poprawnie zgłos
 
 Poniżej przedstawiamy również przykłady poprawnie zgłoszonych błędów.
 
-<img src="https://testuj.pl/wp-content/uploads/2018/07/błędy1.png">
+<img src="https://blog.testuj.pl/wp-content/uploads/2018/07/błędy1.png">
 
 
 
