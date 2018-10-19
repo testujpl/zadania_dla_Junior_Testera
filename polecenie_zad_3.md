@@ -1,5 +1,5 @@
 # Zadania_dla_Junior_Testera_Dzien_3
-<img alt="Logo" src="https://testuj.pl/wp-content/uploads/2018/07/testujpl_logo.png">
+<img alt="Logo" src="https://blog.testuj.pl/wp-content/uploads/2018/07/testujpl_logo.png">
 
 
 Może się zdarzyć, że jako Junior Tester dostaniesz do przetestowania system gdzie będzie dużo zależności logicznych. 
@@ -21,7 +21,7 @@ W powyższym przykładzie (2 kont o różnych uprawnieniach) tablica mogłaby wy
 
 
 
-<img src="https://testuj.pl/wp-content/uploads/2018/07/zad-3.png">
+<img src="https://blog.testuj.pl/wp-content/uploads/2018/07/zad-3.png">
 
 Zauważ, że w warunkach nie dodaliśmy opcji: *“jest właścicielem”*. Domyślnie założyliśmy, że jeśli nie jest sprzedawcą to jest właścicielem :) 
 
