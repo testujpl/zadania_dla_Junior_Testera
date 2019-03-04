@@ -1,5 +1,5 @@
 # Zadania_dla_Junior_Testera_Dzien_2
-<img alt="Logo" src="https://blog.testuj.pl/wp-content/uploads/2018/07/testujpl_logo.png">
+<img alt="Logo" src="https://testuj.pl/blog/wp-content/uploads/2018/07/testujpl_logo.png">
 
 
 
@@ -20,25 +20,25 @@ Poniżej znajdziesz możliwe warianty do sprawdzenia walidacji pola *"hasło"* i
 
 
 **1. Walidacja pola ze zbyt małą liczbą znaków**
-<img src="https://blog.testuj.pl/wp-content/uploads/2018/07/11.png">
+<img src="https://testuj.pl/blog/wp-content/uploads/2018/07/11.png">
 
 **2. Walidcja pola ze zbyt wysoką liczbą znaków**
-<img src="https://blog.testuj.pl/wp-content/uploads/2018/07/22.png">
+<img src="https://testuj.pl/blog/wp-content/uploads/2018/07/22.png">
 
 **3. Wpisanie samych cyfr**
-<img src="https://blog.testuj.pl/wp-content/uploads/2018/07/332.png">
+<img src="https://testuj.pl/blog/wp-content/uploads/2018/07/332.png">
 
 **4. Wpisanie samych liter**
-<img src="https://blog.testuj.pl/wp-content/uploads/2018/07/44.png">
+<img src="https://testuj.pl/blog/wp-content/uploads/2018/07/44.png">
 
 **5. Wpisanie minimalnej liczby cyfr i liter**
-<img src="https://blog.testuj.pl/wp-content/uploads/2018/07/55.png">
+<img src="https://testuj.pl/blog/wp-content/uploads/2018/07/55.png">
 
 **6. Wpisanie maksymalnej liczby cyfr i liter**
-<img src="https://blog.testuj.pl/wp-content/uploads/2018/07/66.png">
+<img src="https://testuj.pl/blog/wp-content/uploads/2018/07/66.png">
 
 **7. Brak wpisanego hasła**
-<img src="https://blog.testuj.pl/wp-content/uploads/2018/07/77.png">
+<img src="https://testuj.pl/blog/wp-content/uploads/2018/07/77.png">
 
 Oto wszystkie przypadki, na które można sprawdzić poprawność walidacji pola *"hasło"*. Nie przejmuj się, jeśli w swoich odpowiedziach nie masz wszystkich, które zostały tutaj wymienione. Z każdym kolejnym wykonanym zadaniem, zwiększasz swoją świadomość na temat możliwości testowania oprogramowania.
 
