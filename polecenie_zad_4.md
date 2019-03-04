@@ -1,5 +1,5 @@
 # Zadania_dla_Junior_Testera_Dzien_4
-<img alt="Logo" src="https://blog.testuj.pl/wp-content/uploads/2018/07/testujpl_logo.png">
+<img alt="Logo" src="https://testuj.pl/blog/wp-content/uploads/2018/07/testujpl_logo.png">
 
 
 **Przed Tobą ostatnie zadanie!** 
