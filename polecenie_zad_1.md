@@ -52,7 +52,7 @@ Protip: Elementy i narzędzia, które wykorzystujesz podczas tworzenia przypadku
 
 **Oto przypadek testowy dla funkcji logowania się do Facebooka**
 
-<img alt="Logo" src="https://blog.testuj.pl/wp-content/uploads/2018/07/przypadek-testowy-testuj.jpg">
+<img alt="Logo" src="https://testuj.pl/blog/wp-content/uploads/2018/07/przypadek-testowy-testuj.jpg">
 
 
 
