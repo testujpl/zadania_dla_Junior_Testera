@@ -1,5 +1,5 @@
 # Zadania_dla_Junior_Testera_Dzien_2
-<img alt="Logo" src="https://blog.testuj.pl/wp-content/uploads/2018/07/testujpl_logo.png">
+<img alt="Logo" src="https://testuj.pl/blog/wp-content/uploads/2018/07/testujpl_logo.png">
 
 
 
@@ -18,7 +18,7 @@ Z doświadczenia wiemy jednak, że osoby które nie mają biletu - nie mogą pol
 
 W naszym przykładzie tablicę możemy również przedstawić w wersji okrojonej - wiemy że w strefie wolnocłowej nie mogą przebywać osoby bez biletu, a zakupu może dokonać dowolna osoba posiadająca bilet - zatem dwie ostatnie kolumny w tabeli wyżej są dla nas nieistotne.   
 
-<img src="https://blog.testuj.pl/wp-content/uploads/2018/07/x.png">
+<img src="https://testuj.pl/blog/wp-content/uploads/2018/07/x.png">
 
 
 ### Miłego!
