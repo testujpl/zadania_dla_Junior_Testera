@@ -8,7 +8,7 @@ Hej! Skoro tutaj jesteś to znaczy, że przedostatnie zadanie dla Junior Testera
 
 Oto dobry przykład uchwycenia wszystkich kombinacji na tablicy decyzyjnej: 
 
-<img src="https://blog.testuj.pl/wp-content/uploads/2018/07/zadanie.png">
+<img src="https://testuj.pl/blog/wp-content/uploads/2018/07/zadanie.png">
 
 Mogłoby się wydawać, że w powyższej kolumnie brakuje jeszcze dwóch przypadków: 
 * osób, które nie mają biletu, mają ukończonych 18 lat i lecą poza kraje UE
