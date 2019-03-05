@@ -21,7 +21,7 @@ Aby dowiedzieć się jakie są rodzaje błędów i jak wygląda poprawnie zgłos
 
 Poniżej przedstawiamy również przykłady poprawnie zgłoszonych błędów.
 
-<img src="https://blog.testuj.pl/wp-content/uploads/2018/07/błędy1.png">
+<img src="https://testuj.pl/blog/wp-content/uploads/2018/07/błędy1.png">
 
 
 
