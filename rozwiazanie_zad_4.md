@@ -1,5 +1,5 @@
 # Zadania_dla_Junior_Testera_Dzien_2
-<img alt="Logo" src="https://blog.testuj.pl/wp-content/uploads/2018/07/testujpl_logo.png">
+<img alt="Logo" src="https://testuj.pl/blog/wp-content/uploads/2018/07/testujpl_logo.png">
 
 
 Za nami czwarte i ostatnie zadanie dla Junior Testerów!
@@ -17,7 +17,7 @@ Za nami czwarte i ostatnie zadanie dla Junior Testerów!
 
 ### Przykładowe błędy z rozwiązania zadania 4
 
-<img src="https://blog.testuj.pl/wp-content/uploads/2018/07/zadanie-4.png">
+<img src="https://testuj.pl/blog/wp-content/uploads/2018/07/zadanie-4.png">
 
 To już ostatnie zadanie Junior Testera! 
 
